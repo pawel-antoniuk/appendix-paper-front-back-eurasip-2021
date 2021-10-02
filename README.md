@@ -11,7 +11,7 @@ The repository is organized as follows:
 If you find this repository useful for your research, please consider citing our paper using the "Cite this repository" option on the repository's GitHub page or using the following BibTeX entry:
 
 ```bibtex
-@article{Zieliński_Antoniuk_Hyunkook_Dale_2021, 
+@article{Zielinski_Antoniuk_Hyunkook_Dale_2021, 
     title={Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music}, 
     journal={EURASIP Journal on Audio, Speech, and Music Processing}, 
     author={Zieliński, Sławomir K. and Antoniuk, Paweł and Hyunkook, Lee and Dale, Johnson}, 
