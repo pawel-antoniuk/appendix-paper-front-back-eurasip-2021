@@ -7,6 +7,14 @@ The repository is organized as follows:
 - [classification-deep](classification-deep) contains sources and data used in the development of the deep learning algorithm as described in the section "5.2. Deep learning algorithm".
 - [convolver](convolver) contains the source code responsible for generating binaural audio files used in the experiments.
 
+## Dependencies
+Software dependencies:
+- [Python 3.6+](https://docs.python.org/3.6/) - a development environment used to implement the traditional algorithm
+- [Auditory front-end](http://docs.twoears.eu/en/1.5/afe/) - a software used to extract features that were then given to the traditional algoritms
+- [scikit-learn](https://scikit-learn.org/stable/) - a machine learning library used to implement traditional algorithms
+- [MATLAB](https://www.mathworks.com/products/matlab.html) - a development environment used to implement the deep learning algorithm
+- [VOICEBOX](http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) - a toolbox used to implement the binaural convolver
+
 ## Citation
 If you find this repository useful for your research, please consider citing our paper using the "Cite this repository" option on the repository's GitHub page or using the following BibTeX entry:
 
@@ -18,14 +26,6 @@ If you find this repository useful for your research, please consider citing our
     year={2021}
 }
 ```
-
-## Dependencies
-Software dependencies:
-- [Python 3.6+](https://docs.python.org/3.6/) - a development environment used to implement the traditional algorithm
-- [Auditory front-end](http://docs.twoears.eu/en/1.5/afe/) - a software used to extract features that were then given to the traditional algoritms
-- [scikit-learn](https://scikit-learn.org/stable/) - a machine learning library used to implement traditional algorithms
-- [MATLAB](https://www.mathworks.com/products/matlab.html) - a development environment used to implement the deep learning algorithm
-- [VOICEBOX](http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) - a toolbox used to implement the binaural convolver
 
 ## Authors
 Sławomir K. Zieliński <sup>1</sup>, Paweł Antoniuk <sup>1</sup>, Hyunkook Lee <sup>2</sup>, and Dale Johnson <sup>2</sup>
