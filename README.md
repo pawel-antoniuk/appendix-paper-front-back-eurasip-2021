@@ -26,7 +26,6 @@ Software dependencies:
 - [scikit-learn](https://scikit-learn.org/stable/) - a machine learning library used to implement traditional algorithms
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - a development environment used to implement the deep learning algorithm
 - [VOICEBOX](http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) - a toolbox used to implement the binaural convolver
-- [Git Large File Storage](https://git-lfs.github.com/) - a Git extension used for storing large files (necessary to download models)
 
 ## Authors
 Sławomir K. Zieliński <sup>1</sup>, Paweł Antoniuk <sup>1</sup>, Hyunkook Lee <sup>2</sup>, and Dale Johnson <sup>2</sup>
