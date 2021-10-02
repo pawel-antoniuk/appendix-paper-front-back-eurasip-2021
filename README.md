@@ -11,7 +11,7 @@ The repository is organized as follows:
 If you find this repository useful for your research, please consider citing our paper using the "Cite this repository" option on the repository's GitHub page or using the following BibTeX entry:
 
 ```bibtex
-@article{Zieliński_Antoniuk_Hyunkook_Dale_2021, 
+@article{Zielinski_Antoniuk_Hyunkook_Dale_2021, 
     title={Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music}, 
     journal={EURASIP Journal on Audio, Speech, and Music Processing}, 
     author={Zieliński, Sławomir K. and Antoniuk, Paweł and Hyunkook, Lee and Dale, Johnson}, 
@@ -20,9 +20,9 @@ If you find this repository useful for your research, please consider citing our
 ```
 
 ## Dependencies
-
 Software dependencies:
 - [Python 3.6+](https://docs.python.org/3.6/) - a development environment used to implement the traditional algorithm
+- [Auditory front-end](http://docs.twoears.eu/en/1.5/afe/) - a software used to extract features that were then given to the traditional algoritms
 - [scikit-learn](https://scikit-learn.org/stable/) - a machine learning library used to implement traditional algorithms
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - a development environment used to implement the deep learning algorithm
 - [VOICEBOX](http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) - a toolbox used to implement the binaural convolver
