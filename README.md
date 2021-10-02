@@ -1,4 +1,4 @@
-# (Appendix) Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music 
+# Software Repository - Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music 
 This repository consists of scripts and data useful to replicate the experiments described in the paper "Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music" (EURASIP Journal on Audio, Speech, and Music Processing 2021).
 
 ## Structure
