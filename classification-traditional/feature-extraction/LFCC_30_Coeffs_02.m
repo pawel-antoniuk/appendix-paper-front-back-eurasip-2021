@@ -1,3 +1,6 @@
+% Sławomir Zieliński 2021
+% Bialystok University of Technology
+
 %% Initialization
 clear, close all, clc
 
