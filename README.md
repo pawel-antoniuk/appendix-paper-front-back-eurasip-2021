@@ -1,5 +1,5 @@
 # Software Repository - Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music 
-This repository consists of scripts and data useful to replicate the experiments described in the paper "Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music" (EURASIP Journal on Audio, Speech, and Music Processing 2021).
+This repository consists of scripts and data useful to replicate the experiments described in the paper "Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music".
 
 ## Structure
 The repository is organized as follows:
@@ -14,18 +14,6 @@ Software dependencies:
 - [scikit-learn](https://scikit-learn.org/stable/) - a machine learning library used to implement traditional algorithms
 - [MATLAB](https://www.mathworks.com/products/matlab.html) - a development environment used to implement the deep learning algorithm
 - [VOICEBOX](http://www.ee.ic.ac.uk/hp/staff/dmb/voicebox/voicebox.html) - a toolbox used to implement the binaural convolver
-
-## Citation
-If you find this repository useful for your research, please consider citing our paper using the "Cite this repository" option on the repository's GitHub page or using the following BibTeX entry:
-
-```bibtex
-@article{Zielinski_Antoniuk_Hyunkook_Dale_2021, 
-    title={Automatic discrimination between front and back ensemble locations in HRTF-convolved binaural recordings of music}, 
-    journal={EURASIP Journal on Audio, Speech, and Music Processing}, 
-    author={Zieliński, Sławomir K. and Antoniuk, Paweł and Hyunkook, Lee and Dale, Johnson}, 
-    year={2021}
-}
-```
 
 ## Authors
 Sławomir K. Zieliński <sup>1</sup>, Paweł Antoniuk <sup>1</sup>, Hyunkook Lee <sup>2</sup>, and Dale Johnson <sup>2</sup>
